@@ -8,7 +8,7 @@ ansible/awx:17.1.0
 postgres:12
 redis:6-alpine
 centos:8
-redis:latest
+library/redis:latest
 #ansible/awx_task:17.1.0
 #ansible/awx_web:17.1.0
 #ansible/awx-ee:0.6.0
