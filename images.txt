@@ -4,3 +4,6 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
+ansible/awx:17.1.0
+postgres:12
+redis:6-alpine
