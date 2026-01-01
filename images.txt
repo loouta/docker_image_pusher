@@ -7,3 +7,5 @@ xhofe/alist:latest
 ansible/awx:17.1.0
 postgres:12
 redis:6-alpine
+ansible/awx_task:17.1.0
+nginx:1.21-alpine
